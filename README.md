@@ -17,5 +17,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vejcowski&show_icons=true&theme=transparent&hide_border=true&text_color=CCCCCC&title_color=CCCCCC&icon_color=CCCCCC" alt="Stats">
+  <img src="https://github-stats-card-generator.vercel.app/api/svg?username=vejcowski&theme=dark" alt="Stats" />
 </p>
