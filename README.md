@@ -13,7 +13,7 @@
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=vejcowski&label=Profile%20views&color=000000&style=for-the-badge"/>
 <img src="https://img.shields.io/github/followers/vejcowski?color=black&style=for-the-badge&logo=github&label=Followers"/>
-[<img src="https://img.shields.io/github/stars/vejcowski?color=black&style=for-the-badge&logo=github&label=Stars"/>](https://img.shields.io/github/stars/vejcowski?cachebust=1)
+<img src="https://img.shields.io/github/stars/vejcowski?cachebust=1"/>
 </p>
 
 <p align="center">
