@@ -1,27 +1,21 @@
-<!-- are you dumb? -->
+<p align="center">
+  vejcowski
+</p>
 
-```python
-class vest:
-    def __init__(self) -> None:
-        pass
+<p align="center">
+  <img src="https://discord.c99.nl/widget/theme-5/1375544683908042862.png">
+</p>
 
-    @staticmethod
-    def about_me(self) -> str:
-        name         =  None
-        age          =  None
-        country      =  "Poland"
-        langs        =  ["Python", "Lua (roblox/fivem)"]
-        return "https://doxbin.com/71vestleaked"
+<p align="center">
+  Python / Lua
+</p>
 
-    @staticmethod
-    def project(self) -> Tuple:
-        main         =  "https://discord.gg/cweluszek" # FiveM (Cheating Community / Lua Executor / Lua Scripts)
-        second       =  "https://neptun.wtf/"           # Discord Raider & hCaptcha Solving
-        in_progress  =  "?"
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vejcowski&label=Profile%20views&color=000000&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/vejcowski?color=black&style=for-the-badge&logo=github&label=Follows"/>
+  <img src="https://img.shields.io/github/stars/vejcowski?color=black&style=for-the-badge&logo=github&label=Stars"/>
+</p>
 
-        return main, second, in_progress
-
-    @staticmethod
-    def scam_count(self) -> int:
-        return 0
-```
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vejcowski&show_icons=true&theme=transparent&hide_border=true&text_color=CCCCCC&title_color=CCCCCC&icon_color=CCCCCC" alt="Stats">
+</p>
